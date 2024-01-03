@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-03T14:30:42 IST" name="Default suite" finished-at="2024-01-03T14:31:11 IST" duration-ms="28710">
+    <groups>
+    </groups>
+    <test started-at="2024-01-03T14:30:42 IST" name="Default test" finished-at="2024-01-03T14:31:11 IST" duration-ms="28710">
+      <class name="com.testcases.AllcustomersTest">
+        <test-method is-config="true" signature="inta()[pri:0, instance:com.testcases.AllcustomersTest@31fa1761]" started-at="2024-01-03T14:30:42 IST" name="inta" finished-at="2024-01-03T14:30:51 IST" duration-ms="8846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inta -->
+        <test-method signature="log()[pri:0, instance:com.testcases.AllcustomersTest@31fa1761]" started-at="2024-01-03T14:30:51 IST" name="log" finished-at="2024-01-03T14:31:11 IST" duration-ms="19783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+      </class> <!-- com.testcases.AllcustomersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
